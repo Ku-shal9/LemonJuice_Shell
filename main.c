@@ -16,7 +16,7 @@ int main() // function signature
     printf("\033[1;32m"); // set color to bold Green
     printf("==================================== || ====================================\n");
     printf("\n");
-    // printf("              Welcome %s@%s to LemonJuice  by Kushal   \n", username, hostname);
+    printf("              Welcome %s@%s to LemonJuice  by Kushal   \n", username, hostname);
     printf("                            Type 'help' to begin         \n");
     printf("\n");
     printf("==================================== || ====================================\n");
